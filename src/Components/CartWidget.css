@@ -1,0 +1,13 @@
+.cart-container{
+    display: flex;
+    width: 25px;
+    height: 25px;
+    align-self: center;
+}
+
+.cart-icon{
+    max-width: 100%;
+    height: auto;
+    align-self: center;
+
+}

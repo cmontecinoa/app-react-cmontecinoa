@@ -1,0 +1,16 @@
+.navbar_container{
+    display: flex;
+    justify-content: space-around;
+    background-color:#090909;
+    padding: 7px;
+    color: white;
+}
+
+.buttons_navbar{
+    color:white;
+    display:flex;
+    background: none;
+    border: none;
+    align-self: center;
+}
+
